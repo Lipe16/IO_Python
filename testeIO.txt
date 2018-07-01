@@ -1,0 +1,2 @@
+Testando IO no python!
+Se este aquivo for printado na tela então deu tudo certo :D
