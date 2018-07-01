@@ -1,4 +1,4 @@
-# Lista de exercícios 
+# Lista de exercícios (V.Python 3.7)
 
 ##### Manipulando strings e IO(entradas e saídas)
 
